@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WithoutDemo/WithoutSOLID.csproj" />
+  <Project Path="WithSOLID/WithSOLID.csproj" />
+</Solution>
